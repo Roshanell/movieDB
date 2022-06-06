@@ -17,7 +17,7 @@ I was able to implement states, hooks, data fetching, and JSX in my code to buil
 
 ## Optimizations
 
-I could always include more information on the movie when clicked. For instance, instead of just the movies populating I could include details about the movie such as a short description, actors,producer, and even the rating of the film when the user clickes on an image.
+I could always include more information on the movie when clicked. For instance, instead of just the movies populating, I could include details about the movie such as a short description, actors, producer, and even the rating of the film when the user clicks on an image.
 
 ## Lessons Learned:
 
