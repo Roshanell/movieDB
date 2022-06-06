@@ -5,7 +5,7 @@ This project allows you to search the database and return a list of movies or sh
 
 **Link to project: coming soon**
 
-**Image of project: coming soon**
+![Recording 2022-06-05 at 19 38 50](https://user-images.githubusercontent.com/96213223/172077879-8515796b-0beb-45fd-ad0e-4877deca9728.gif)
 
 
 
