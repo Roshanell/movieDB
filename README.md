@@ -29,3 +29,13 @@ Ensure that you set up your environment properly before hand! The easiest way to
 
 Also, JSX is extremely useful (although not necessary) when it comes rendering the UI of our page.
 
+
+## Other Projects:
+
+*Food Checker*: https://github.com/Roshanell/FoodChecker
+
+*Task Manager APP*: https://github.com/Roshanell/task_manager
+
+*CodeWars* https://github.com/Roshanell/Codewars
+
+
